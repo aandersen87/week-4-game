@@ -1,0 +1,42 @@
+body {
+    background-image: url("../images/background.jpg");
+    width: 90%;
+    height: 100%;
+}
+
+.titleText {
+    color: white;
+    text-align: right;
+}
+
+.bodyText {
+    color: white;
+}
+
+.charBox {
+    background-color: white;
+    margin: 50px;
+    height: 200px;
+    width: 200px;
+}
+
+.floatLeft {
+    float: left;
+}
+
+.floatRight {
+    float: left;
+    margin: 25px;
+}
+
+.clearFloat {
+    clear: both;
+}
+
+.charName {
+    float: top;
+}
+
+.healthBar {
+    float: bottom;
+}
